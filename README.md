@@ -2,8 +2,5 @@
 
 - Java
 - Java Swing
-
-## Version Control
-
 - Git
 - GitHub
