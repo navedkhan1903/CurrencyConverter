@@ -3,7 +3,7 @@
 - Java
 - Java Swing
 
-## Tech Stack
+## Version Control
 
 - Git
 - GitHub
